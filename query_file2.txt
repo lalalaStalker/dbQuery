@@ -1,0 +1,2 @@
+select    Students     Name  ==  40
+quit
